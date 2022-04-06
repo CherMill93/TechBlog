@@ -5,7 +5,8 @@
   "scripts": {
     "test": "jest",
     "seeds": "node seeds/index.js",
-    "start": "node server.js"
+    "start": "node server.js",
+    "develop":"nodemon server.js"
   },
   "author": "",
   "license": "ISC",
